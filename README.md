@@ -1,6 +1,8 @@
 # react-to-do-list
 ### tutorial from https://www.youtube.com/watch?v=DLX62G4lc44
 
+This project reads tasks from a data file and renders them to a list in a webpage.  Tasks can be crossed off, as noted by the visual styles applied.
+
 This project demonstrates use of the following React concepts:
 * functional and class components
 * in-line styling 
